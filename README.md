@@ -9,7 +9,7 @@
 *Mata Kuliah*: Pemrograman Perangkat Bergerak
 *Dosen Pengampu*: 1. Fajar Winata S.Kom., M.T.
                   2. Rizky Kharisma N. E. P. S.Tr.Kom., M.T.
-*Link GitHub*: (Isi Link GitHub Anda)
+*Link GitHub*: (https://github.com/Andreansyahra99/TugasUTSPBB_Andreansyah)
 *Email*: andreansyah.ra@gmail.com
 
 ---
@@ -182,4 +182,4 @@ Fitur-fitur di bawah ini ditambahkan untuk meningkatkan fungsionalitas dan memen
 *NIM:* 240102015
 *Kelas:* IF23B
 *Email:* andreansyah.ra@gmail.com
-*GitHub:* (Isi Link GitHub Anda)
+*GitHub:* (https://github.com/Andreansyahra99/TugasUTSPBB_Andreansyah)
